@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/viveca-index.html"
+  status = 200
